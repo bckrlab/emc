@@ -1,0 +1,1 @@
+{"emc": {"lambda_f": 0.9400000000000001, "lambda_s": 0.95, "beta": 0.0, "delta_f": 0.3, "delta_s": 0.2, "eta_f": 0.5, "eta_s": 0.25, "tau": 100}, "mc_adwin": {"delta": 0.019320752593751087, "clock": 3, "max_buckets": 34, "min_window_length": 14, "grace_period": 58}, "mc_sw": {"window_size": 328}}

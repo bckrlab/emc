@@ -1,0 +1,51 @@
+# TeX!
+text.usetex: False
+
+# fig
+figure.facecolor: "#FFFFFF"
+figure.constrained_layout.use: True
+text.hinting_factor : 8
+patch.antialiased: True
+
+# fonts
+font.family: serif
+axes.labelsize: 8
+font.size: 8
+xtick.labelsize: 6
+ytick.labelsize: 6
+legend.fontsize: 6
+
+# set x axis
+xtick.direction: in
+xtick.major.size: 2
+xtick.major.width: 0.5
+xtick.minor.size: 1.5
+xtick.minor.width: 0.5
+xtick.minor.visible: False
+xtick.top: False
+
+# set y axis
+ytick.direction: in
+ytick.major.size: 2
+ytick.major.width: 0.5
+ytick.minor.size: 1.5
+ytick.minor.width: 0.5
+ytick.minor.visible: False
+ytick.right: False
+
+# grid
+axes.grid: True
+grid.color: "#B2B2B2"
+grid.linestyle: dashed
+grid.linewidth: 0.5
+
+# line widths
+axes.linewidth: 0.75
+lines.linewidth: 1.0
+
+# legend
+legend.frameon: True
+legend.fancybox: False
+
+# saving
+savefig.pad_inches: 0.05
